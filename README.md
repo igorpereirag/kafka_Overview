@@ -30,7 +30,7 @@ O Apache Kafka é usado em uma variedade de casos de uso, incluindo:
 
 Para começar a usar o Apache Kafka, siga estas etapas:
 
-1. **Instalação**: Baixe e instale o Apache Kafka em seu ambiente de desenvolvimento ou produção  e poderá usar também através de imagens docker
+1. **Instalação**: Baixe e instale o Apache Kafka em seu ambiente de desenvolvimento ou produção como também poderá utilizar essas ferramentas através de imagens docker
 
 2. **Configuração do cluster**: Configure um cluster Kafka distribuído para lidar com seus dados.
 
